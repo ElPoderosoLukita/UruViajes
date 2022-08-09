@@ -11,7 +11,7 @@
 <template>
     <div>
         <h1>Algo salió mal...</h1>
-        <img src="../assets/Dayflow Avatar.png" alt="">
+        <img src="../assets/DayflowAvatar.png" alt="">
         <p>
             Lastimosamente no tenemos viajes con el presupuesto
             que ingresaste, quizás más adelante ingresemos 
